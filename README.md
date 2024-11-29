@@ -24,4 +24,4 @@ Para configurar o ambiente de execução, siga as etapas abaixo utilizando o Ana
 
 ## Base de Dados
 
-O arquivo `base_dados.csv` contém a tabela utilizada na execução do código. Ele inclui informações detalhadas sobre os preços dos imóveis e suas respectivas características.
+O arquivo `base_dados.csv` contém a tabela utilizada na execução do código. Ela inclui informações detalhadas sobre os preços dos imóveis e suas respectivas características.
